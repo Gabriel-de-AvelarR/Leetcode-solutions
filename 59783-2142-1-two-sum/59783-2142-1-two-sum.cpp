@@ -18,10 +18,6 @@ public:
         }
         return {};
     }
-    
-    vector<int> twoSumB(vector<int> &nums, int target){
-        return{};
-    }
 };
 
 
