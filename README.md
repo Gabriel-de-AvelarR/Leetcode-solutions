@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Gabriel-de-AvelarR/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Gabriel-de-AvelarR/Leetcode-solutions/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -23,4 +24,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Gabriel-de-AvelarR/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Gabriel-de-AvelarR/Leetcode-solutions/tree/master/0383-ransom-note) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Gabriel-de-AvelarR/Leetcode-solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
